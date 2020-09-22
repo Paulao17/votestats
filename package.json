@@ -4,7 +4,8 @@
   "description": "For modeling voting systems, for a school project",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "doc": "jsdoc -d ./docs ./src"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/Paulao17/votestats#readme",
   "devDependencies": {
+    "jsdoc": "^3.6.6",
     "mocha": "^8.1.3"
   }
 }
