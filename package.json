@@ -1,0 +1,22 @@
+{
+  "name": "votestats",
+  "version": "1.0.0",
+  "description": "For modeling voting systems, for a school project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paulao17/votestats.git"
+  },
+  "author": "Paulao17",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Paulao17/votestats/issues"
+  },
+  "homepage": "https://github.com/Paulao17/votestats#readme",
+  "devDependencies": {
+    "mocha": "^8.1.3"
+  }
+}
